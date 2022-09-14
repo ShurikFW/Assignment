@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Assignment1_AleksandrMastakov\Assignment1_AleksandrMastakov\bin\Debug\Assignment1_AleksandrMastakov.exe.config
+C:\Users\User\source\repos\Assignment1_AleksandrMastakov\Assignment1_AleksandrMastakov\bin\Debug\Assignment1_AleksandrMastakov.exe
+C:\Users\User\source\repos\Assignment1_AleksandrMastakov\Assignment1_AleksandrMastakov\bin\Debug\Assignment1_AleksandrMastakov.pdb
+C:\Users\User\source\repos\Assignment1_AleksandrMastakov\Assignment1_AleksandrMastakov\obj\Debug\Assignment1_AleksandrMastakov.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Assignment1_AleksandrMastakov\Assignment1_AleksandrMastakov\obj\Debug\Assignment1_AleksandrMastakov.Properties.Resources.resources
+C:\Users\User\source\repos\Assignment1_AleksandrMastakov\Assignment1_AleksandrMastakov\obj\Debug\Assignment1_AleksandrMastakov.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Assignment1_AleksandrMastakov\Assignment1_AleksandrMastakov\obj\Debug\Assignment1_AleksandrMastakov.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Assignment1_AleksandrMastakov\Assignment1_AleksandrMastakov\obj\Debug\Assignment1_AleksandrMastakov.exe
+C:\Users\User\source\repos\Assignment1_AleksandrMastakov\Assignment1_AleksandrMastakov\obj\Debug\Assignment1_AleksandrMastakov.pdb
+C:\Users\User\source\repos\Assignment1_AleksandrMastakov\Assignment1_AleksandrMastakov\obj\Debug\Assignment1_AleksandrMastakov.Knight.resources
